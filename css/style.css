@@ -27,3 +27,118 @@ font-family: 'Roboto', sans-serif;
 	font-weight: 500;
 	color: #3c3c3c !important;
 }
+
+.hero {
+	margin: 70px 0;
+}
+
+.hero-details {
+	width: 65%;
+	margin-top: 85px;
+	margin-left: 20%;
+}
+
+.hero-details h1 {
+	color: #363958;
+	font-size: 70px;
+	line-height: 70px;
+	font-family: 'Bebas Neue', cursive;
+}
+
+.hero-details p {
+	font-size: 18px;
+}
+
+#name {
+	color: #fa804c;
+}
+
+.btn-custom {
+	width: 170px;
+	height: 60px;
+	background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+	border-radius: 10px;
+}
+
+.price {
+	display: flex;
+	width: 90%;
+}
+
+.price p {
+	float: left;
+	font-size: 32px;
+	font-weight: 700;
+	color: #fa804c;
+}
+
+.price .btn-custom {
+	margin-left: auto;
+}
+
+.single-item h2 {
+	font-size: 32px;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 36px;
+	font-weight: 700;
+}
+
+.section {
+	margin: 180px 0;
+}
+
+.shop-item {
+	width: 90%;
+	padding-left: 5%;
+	margin-top: 40px;
+}
+
+.vector {
+	margin-top: 40px;
+}
+
+.newsletter {
+	padding: 100px 0;
+	background-color: #fa804c;
+}
+
+.c_title {
+	font-weight: 700;
+	font-size: 32px;
+	margin-bottom: 18px;
+}
+
+.c_para {
+	color: white;
+	line-height: 22px;
+}
+
+.n_form {
+	margin-top: 40px;
+}
+
+.btn_submit {
+	width: 100%;
+	height: 50px;
+	background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+	color: white;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.n_input {
+	height: 50px;
+}
+
+.social_icon {
+	margin-top: 50px;
+}
+
+.social_icon i {
+	font-size: 42px;
+	margin: 0 15px;
+	color: #fcdb00;
+}
